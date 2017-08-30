@@ -1,0 +1,8 @@
+{
+  "name": "fly-lambda-mw",
+  "description": "testing out some lambda middleware functions",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::861344665010:role/fly-lambda-mw_lambda_function",
+  "environment": {}
+}
